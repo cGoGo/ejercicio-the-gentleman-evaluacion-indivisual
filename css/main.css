@@ -1,0 +1,22 @@
+
+/* HEADER */
+.logoL {
+	width: 60%;
+	min-width: 200px;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+}
+nav li {
+	padding: 7% 0 0 5%;
+}
+
+/* CUERPO */
+/* Articulo */
+.imgHeader {
+	margin: 5%;
+}
+.tittle {
+	font-size: 2em;
+}

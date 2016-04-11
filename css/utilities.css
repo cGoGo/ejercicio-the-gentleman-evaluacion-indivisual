@@ -34,9 +34,7 @@ strong {
 .mg-0{
 	margin: 0;
 }
-.w-100{
-	width: 100%;
-}
+
 .lh{
 	line-height: 1.5;
 }
@@ -50,9 +48,7 @@ strong {
 	text-align: right;
 }
 
-.text-white{
-	color: white;
-}
+
 .text-gray{
 	color: #888;
 }
@@ -83,4 +79,42 @@ strong {
 
 .pull-right {
 	float: right;
+}
+
+/* UTILITIES */
+.w100{
+	width: 100%;
+}
+.bgGray{
+	background: rgb(38, 35, 44);
+}
+.bgGray2{
+	background: rgb(221, 222, 232);
+}
+.bgGray3 {
+	background: rgb(244, 245, 248);
+}
+.inBlock {
+	display: inline-block;
+}
+.txtDecoNo {
+	text-decoration: none;
+}
+.txtWhite{
+	color: white;
+}
+.action:hover {
+	color: rgb(238, 36, 101);
+}
+.txtRose {
+	color: rgb(238, 36, 101);
+}
+.lora {
+	font-family: "Lora";
+}
+.oSans {
+	font-family: "Open Sans";
+}
+.boxShdw {
+	box-shadow:1px 1px 5px #888888;
 }
