@@ -14,9 +14,11 @@ nav li {
 
 /* CUERPO */
 /* Articulo */
-.imgHeader {
-	margin: 5%;
-}
 .tittle {
 	font-size: 2em;
+}
+.boton {
+	background: rgb(176, 173, 183);
+	padding: 6%;
+	border-radius: 20px;
 }

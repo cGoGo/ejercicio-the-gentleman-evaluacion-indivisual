@@ -19,9 +19,7 @@ strong {
 .pd-10 {
 	padding: 10%;
 }
-.pt-5{
-	padding-top: 5%;
-}
+
 .pb-5{
 	padding-bottom: 5%;
 }
@@ -86,7 +84,7 @@ strong {
 	width: 100%;
 }
 .bgGray{
-	background: rgb(38, 35, 44);
+	background: rgb(50, 46, 57);
 }
 .bgGray2{
 	background: rgb(221, 222, 232);
@@ -103,6 +101,9 @@ strong {
 .txtWhite{
 	color: white;
 }
+.txtGray {
+	color: rgb(70, 64, 79);
+}
 .action:hover {
 	color: rgb(238, 36, 101);
 }
@@ -117,4 +118,10 @@ strong {
 }
 .boxShdw {
 	box-shadow:1px 1px 5px #888888;
+}
+.mg5 {
+	margin: 5%;
+}
+.pt5{
+	padding-top: 5%;
 }
