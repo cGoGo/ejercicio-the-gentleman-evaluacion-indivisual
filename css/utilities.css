@@ -104,10 +104,10 @@ strong {
 .txtGray {
 	color: rgb(70, 64, 79);
 }
-.action:hover {
+.txtRose {
 	color: rgb(238, 36, 101);
 }
-.txtRose {
+.action:hover {
 	color: rgb(238, 36, 101);
 }
 .lora {
@@ -121,6 +121,12 @@ strong {
 }
 .mg5 {
 	margin: 5%;
+}
+.fs09 {
+	font-size: 0.9em;
+}
+.fs07 {
+	font-size: 0.7em;
 }
 .pt5{
 	padding-top: 5%;
